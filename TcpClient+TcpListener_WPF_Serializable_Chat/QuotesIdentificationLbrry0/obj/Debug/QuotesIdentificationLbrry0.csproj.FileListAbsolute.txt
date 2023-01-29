@@ -1,0 +1,6 @@
+C:\Users\pc\source\repos\nd\WndwsFrmsTcpLstnrServer0\QuotesIdentificationLbrry0\bin\Debug\QuotesIdentificationLbrry0.dll
+C:\Users\pc\source\repos\nd\WndwsFrmsTcpLstnrServer0\QuotesIdentificationLbrry0\bin\Debug\QuotesIdentificationLbrry0.pdb
+C:\Users\pc\source\repos\nd\WndwsFrmsTcpLstnrServer0\QuotesIdentificationLbrry0\obj\Debug\QuotesIdentificationLbrry0.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\nd\WndwsFrmsTcpLstnrServer0\QuotesIdentificationLbrry0\obj\Debug\QuotesIdentificationLbrry0.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\nd\WndwsFrmsTcpLstnrServer0\QuotesIdentificationLbrry0\obj\Debug\QuotesIdentificationLbrry0.dll
+C:\Users\pc\source\repos\nd\WndwsFrmsTcpLstnrServer0\QuotesIdentificationLbrry0\obj\Debug\QuotesIdentificationLbrry0.pdb

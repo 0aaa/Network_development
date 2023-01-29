@@ -1,0 +1,14 @@
+C:\Users\pc\source\repos\nd\dz_api_intro\Weather0.BLL\bin\Debug\ApiIntro0.BLL.dll
+C:\Users\pc\source\repos\nd\dz_api_intro\Weather0.BLL\bin\Debug\ApiIntro0.BLL.pdb
+C:\Users\pc\source\repos\nd\dz_api_intro\Weather0.BLL\bin\Debug\ApiIntro0.DAL.dll
+C:\Users\pc\source\repos\nd\dz_api_intro\Weather0.BLL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pc\source\repos\nd\dz_api_intro\Weather0.BLL\bin\Debug\EntityFramework.dll
+C:\Users\pc\source\repos\nd\dz_api_intro\Weather0.BLL\bin\Debug\ApiIntro0.DAL.pdb
+C:\Users\pc\source\repos\nd\dz_api_intro\Weather0.BLL\bin\Debug\ApiIntro0.DAL.dll.config
+C:\Users\pc\source\repos\nd\dz_api_intro\Weather0.BLL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\pc\source\repos\nd\dz_api_intro\Weather0.BLL\bin\Debug\EntityFramework.xml
+C:\Users\pc\source\repos\nd\dz_api_intro\Weather0.BLL\obj\Debug\ApiIntro0.BLL.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\nd\dz_api_intro\Weather0.BLL\obj\Debug\ApiIntro0.BLL.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\nd\dz_api_intro\Weather0.BLL\obj\Debug\ApiIntro0.BLL.csproj.CopyComplete
+C:\Users\pc\source\repos\nd\dz_api_intro\Weather0.BLL\obj\Debug\ApiIntro0.BLL.dll
+C:\Users\pc\source\repos\nd\dz_api_intro\Weather0.BLL\obj\Debug\ApiIntro0.BLL.pdb

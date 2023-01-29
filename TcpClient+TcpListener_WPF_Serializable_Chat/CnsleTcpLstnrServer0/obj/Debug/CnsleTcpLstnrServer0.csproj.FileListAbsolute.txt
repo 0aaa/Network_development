@@ -1,0 +1,12 @@
+C:\Users\pc\source\repos\nd\WndwsFrmsTcpLstnrServer0\CnsleTcpLstnrServer0\bin\Debug\CnsleTcpLstnrServer0.exe.config
+C:\Users\pc\source\repos\nd\WndwsFrmsTcpLstnrServer0\CnsleTcpLstnrServer0\bin\Debug\CnsleTcpLstnrServer0.exe
+C:\Users\pc\source\repos\nd\WndwsFrmsTcpLstnrServer0\CnsleTcpLstnrServer0\bin\Debug\CnsleTcpLstnrServer0.pdb
+C:\Users\pc\source\repos\nd\WndwsFrmsTcpLstnrServer0\CnsleTcpLstnrServer0\bin\Debug\QuotesSrlzbleLbrry0.dll
+C:\Users\pc\source\repos\nd\WndwsFrmsTcpLstnrServer0\CnsleTcpLstnrServer0\bin\Debug\QuotesSrlzbleLbrry0.pdb
+C:\Users\pc\source\repos\nd\WndwsFrmsTcpLstnrServer0\CnsleTcpLstnrServer0\obj\Debug\CnsleTcpLstnrServer0.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\nd\WndwsFrmsTcpLstnrServer0\CnsleTcpLstnrServer0\obj\Debug\CnsleTcpLstnrServer0.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\nd\WndwsFrmsTcpLstnrServer0\CnsleTcpLstnrServer0\obj\Debug\CnsleTcpLstnrServer0.csproj.CopyComplete
+C:\Users\pc\source\repos\nd\WndwsFrmsTcpLstnrServer0\CnsleTcpLstnrServer0\obj\Debug\CnsleTcpLstnrServer0.exe
+C:\Users\pc\source\repos\nd\WndwsFrmsTcpLstnrServer0\CnsleTcpLstnrServer0\obj\Debug\CnsleTcpLstnrServer0.pdb
+C:\Users\pc\source\repos\nd\WndwsFrmsTcpLstnrServer0\CnsleTcpLstnrServer0\bin\Debug\QuotesIdentificationLbrry0.dll
+C:\Users\pc\source\repos\nd\WndwsFrmsTcpLstnrServer0\CnsleTcpLstnrServer0\bin\Debug\QuotesIdentificationLbrry0.pdb

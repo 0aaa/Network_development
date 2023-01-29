@@ -1,0 +1,42 @@
+<Window x:Class="MVVMCUdpClnt_dz_udp0.Views.ShellView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Width="600"
+        Title="UDP chat">
+
+    <Grid Background="{Binding CurrentBackground}">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="110"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition Height="100"/>
+        </Grid.RowDefinitions>
+        <ListBox ItemsSource="{Binding ChatMessagesClctnVw}" Background="{Binding CurrentBackground}" Foreground="{Binding CurrentForeground}"
+                 FontSize="{Binding CurrentFontSize}" FontStyle="{Binding CurrentFontStyle}" FontWeight="{Binding CurrentFontWeight}"/>
+        <TextBox Grid.Row="1" Text="{Binding MessageToSendStr}" Background="{Binding CurrentBackground}" Foreground="{Binding CurrentForeground}"
+                 FontSize="{Binding CurrentFontSize}" FontStyle="{Binding CurrentFontStyle}" FontWeight="{Binding CurrentFontWeight}" AcceptsReturn="True"/>
+        <StackPanel Grid.Column="1">
+            <Label Content="Local port" Foreground="{Binding CurrentForeground}"/>
+            <TextBox Text="{Binding LocalPort}" Background="{Binding CurrentBackground}" Foreground="{Binding CurrentForeground}"/>
+            <Label Content="Remote port" Foreground="{Binding CurrentForeground}"/>
+            <TextBox Text="{Binding RemotePort}" Background="{Binding CurrentBackground}" Foreground="{Binding CurrentForeground}"/>
+            <Label Content="Pseudo" Foreground="{Binding CurrentForeground}"/>
+            <TextBox Text="{Binding Pseudo}" Background="{Binding CurrentBackground}" Foreground="{Binding CurrentForeground}"/>
+            <Button Command="{Binding ConnectReconnectCmd}" Content="Re-/Connect" Margin="0,2,0,5" Height="30"/>
+            <Label Content="Background" Foreground="{Binding CurrentForeground}"/>
+            <ComboBox ItemsSource="{Binding ColorsArr}" SelectedValue="{Binding CurrentBackground}"/>
+            <Label Content="Foreground" Foreground="{Binding CurrentForeground}"/>
+            <ComboBox ItemsSource="{Binding ColorsArr}" SelectedValue="{Binding CurrentForeground}"/>
+            <Label Content="Font size" Foreground="{Binding CurrentForeground}"/>
+            <TextBox Text="{Binding CurrentFontSize}" Background="{Binding CurrentBackground}" Foreground="{Binding CurrentForeground}"/>
+            <Label Content="Font style" Foreground="{Binding CurrentForeground}"/>
+            <ComboBox ItemsSource="{Binding FontStylesArr}" SelectedValue="{Binding CurrentFontStyle}"/>
+            <Label Content="Font weight" Foreground="{Binding CurrentForeground}"/>
+            <ComboBox ItemsSource="{Binding FontWeightsArr}" SelectedValue="{Binding CurrentFontWeight}"/>
+        </StackPanel>
+        <Button Grid.Column="1" Grid.Row="1" Command="{Binding SendMessageCmd}" Content="Send" Height="40"/>
+    </Grid>
+
+</Window>

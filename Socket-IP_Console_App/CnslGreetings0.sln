@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CnslGreetingsSrvr0", "CnslGreetings0\CnslGreetingsSrvr0.csproj", "{F4DB9C31-8A55-42F9-8327-CB8D82247ED2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CnslGreetingsClnt0", "CnslGreetingsClnt0\CnslGreetingsClnt0.csproj", "{F50D436C-9928-45B1-934A-397CF2B592CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4DB9C31-8A55-42F9-8327-CB8D82247ED2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4DB9C31-8A55-42F9-8327-CB8D82247ED2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4DB9C31-8A55-42F9-8327-CB8D82247ED2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4DB9C31-8A55-42F9-8327-CB8D82247ED2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F50D436C-9928-45B1-934A-397CF2B592CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F50D436C-9928-45B1-934A-397CF2B592CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F50D436C-9928-45B1-934A-397CF2B592CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F50D436C-9928-45B1-934A-397CF2B592CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C33B2CB-AB4C-42C6-8B5F-2ABF52D8D205}
+	EndGlobalSection
+EndGlobal

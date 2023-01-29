@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\nd\CnslGreetings0\CnslGreetings0\bin\Debug\CnslGreetingsSrvr0.exe.config
+C:\Users\pc\source\repos\nd\CnslGreetings0\CnslGreetings0\bin\Debug\CnslGreetingsSrvr0.exe
+C:\Users\pc\source\repos\nd\CnslGreetings0\CnslGreetings0\bin\Debug\CnslGreetingsSrvr0.pdb
+C:\Users\pc\source\repos\nd\CnslGreetings0\CnslGreetings0\obj\Debug\CnslGreetingsSrvr0.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\nd\CnslGreetings0\CnslGreetings0\obj\Debug\CnslGreetingsSrvr0.exe
+C:\Users\pc\source\repos\nd\CnslGreetings0\CnslGreetings0\obj\Debug\CnslGreetingsSrvr0.pdb
+C:\Users\pc\source\repos\nd\CnslGreetings0\CnslGreetings0\obj\Debug\CnslGreetingsSrvr0.csprojAssemblyReference.cache

@@ -1,0 +1,22 @@
+<Window x:Class="WpfTcpLstnrClient0.Views.ShellView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Width="260"
+        Height="440"
+        Title="Quotes. Client">
+
+    <Grid>
+        <StackPanel>
+            <ListBox ItemsSource="{Binding ResponseClctnVw, UpdateSourceTrigger=PropertyChanged}" Height="210"/>
+            <Label Content="Pseudo:"/>
+            <TextBox Text="{Binding Pseudo}"/>
+            <Label Content="Password:"/>
+            <TextBox Text="{Binding Password}"/>
+            <Button Command="{Binding LoggingCmd}" Content="Log in"/>
+            <Button Command="{Binding QuoteRequestCmd}" Content="Quote request"/>
+            <Button Command="{Binding ExitCmd}" Content="Exit"/>
+            <Label Content="*available pseudos/passwords:&#10;user0/user0, user1/user1, user2/user2"/>
+        </StackPanel>
+    </Grid>
+
+</Window>
